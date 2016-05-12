@@ -25,9 +25,6 @@ description: Just a guy trying to learn how to program!
 navbar-links:
   Home: "http://ericdsmith.github.io"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)

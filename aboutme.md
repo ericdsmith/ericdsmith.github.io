@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Aspiring Software Engineer
 ---
 
-My name is Eric Smith and I'm currently learning how to program.
+My name is Eric Smith. I'm currently attending Hack Reactor.

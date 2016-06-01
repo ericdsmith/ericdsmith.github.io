@@ -70,10 +70,10 @@ url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/New_York"
-markdown: kramdown
-kramdown: 
-  input: GFM
-  syntax_highlighter: rouge
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5

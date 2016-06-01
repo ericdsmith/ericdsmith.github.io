@@ -42,4 +42,4 @@ function bubbleSort(array){
 ```
 **Logarithmic Time - O(log(n))**
 An algorithm that has logarithmic time complexity is going to split the size that it has to process by half on every pass. Basically as you increase the input size, the increased time to complete it will reduce with each addition. 
-![Logarithmic Time Complexity Graph]({{ site.url }}/img/logarithmic-time.png
+![Logarithmic Time Complexity Graph]: {{ site.url }}/img/logarithmic-time.png

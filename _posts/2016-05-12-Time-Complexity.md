@@ -7,11 +7,11 @@ An important skill for any software developer to have is to identify which algor
 
 **Constant Time - O(n)**
 The way to think about this in laymans terms is that no matter how large the input, the amount of time it takes to perform this algorithm will be the same.
-```js
+{% highlight javascript %}
 function constantExample(array){
   return array[0];
 };
-```
+{% endhighlight %}
 It doesn't matter if the array you pass to the constantExample has a length of zero or a million, it will still be the same amount of time.
 
 **Linear Time - O(n)**

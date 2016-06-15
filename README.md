@@ -1,6 +1,6 @@
 # Beautiful Jekyll
 
-**Beautiful Jekyll** is a ready-to-use template to help you create an awesome website quickly. Perfect for personal blogs or simple project websites.  [Check out a demo](http://deanattali.com/beautiful-jekyll) of what you'll get after just two minutes.  You can look at [my personal website](http://deanattali.com) to see it in use, or see examples of websites other people created using this theme [here](#featured-users).
+**Beautiful Jekyll** is a ready-to-use template to help you create an awesome website quickly. Perfect for personal blogs or simple project websites.  [Check out a demo](http://deanattali.com/beautiful-jekyll) of what you'll get after just two minutes.  You can look at [my personal website](http://deanattali.com) to see it in use, or see examples of websites other people created using this theme [here](#featured-users-success-stories).
 
 Feel free to modify this in any way you'd like, but I would appreciate it if you don't remove the attribution to Beautiful Jekyll. I've noticed that many people copy this website and deliberately remove the tiny phrase that gives me credit, and it feels a bit sad to not get credit for the countless hours I've put into this. Don't make me sad!
 
@@ -15,7 +15,7 @@ This template is built on top of [Jekyll](http://jekyllrb.com/) and can be used 
 - [Add your own content](#add-your-own-content)
 - [Last important thing: YAML front matter ("parameters" for a page)](#last-important-thing-yaml-front-matter-parameters-for-a-page)
 - [Basic features](#basic-features)
-- [Advanced features](#advanced-features)
+- [Advanced features](#advanced-features-including-how-to-use-a-custom-url-address-for-your-site)
 - [Featured users (success stories!)](#featured-users-success-stories)
 - [Very advanced: local development](#very-advanced-local-development)
 - [Credits](#credits)
@@ -146,7 +146,7 @@ To set up a GitHub Project page, simply fork this repository into a branch calle
 
 ---
 
-### Advanced features
+### Advanced features (including how to use a custom URL address for your site)
 
 I wrote [a blog post](http://deanattali.com/2015/03/12/beautiful-jekyll-how-to-build-a-site-in-minutes/) describing some more advanced features that I used in my website that are applicable to any Jekyll site.  It describes how I used a custom URL for my site (deanattali.com instead of daattali.github.io), how to add a Google-powered search into your site, and provides a few more details about having an RSS feed. 
 

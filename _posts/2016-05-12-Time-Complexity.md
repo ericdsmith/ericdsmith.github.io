@@ -5,7 +5,7 @@ title: Algorithm Time-complexity and Big-O
 
 An important skill for any software developer to have is to identify which algorithm will perform better than another. The way software engineers do that is by using a mathematical notion called Big-O notation. Big-O notation gives us insight into the relationship between the time a particular algorithm takes to complete with the size of the input. The notation's pattern is a big o, O, followed by mathematical description of how the algortihm performs. Below are some examples of common algorithmic time complexities and associated sample code that might clarify this concept further.
 
-**Constant Time - O(n)**
+**Constant Time - O(1)**
 The way to think about this in laymans terms is that no matter how large the input, the amount of time it takes to perform this algorithm will be the same.
 
 ```js
@@ -44,5 +44,5 @@ function bubbleSort(array){
 }
 ```
 **Logarithmic Time - O(log(n))**
-An algorithm that has logarithmic time complexity is going to split the size that it has to process by half on every pass. Basically as you increase the input size, the increased time to complete it will reduce with each addition. 
+An algorithm that has logarithmic time complexity is going to split the size that it has to process by half on every pass. Basically as you increase the input size, the increased time to complete it will reduce with each addition.
 ![Logarithmic Time Complexity Graph]({{ site.url }}/img/logarithmic-time.png)
